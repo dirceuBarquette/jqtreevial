@@ -2,12 +2,12 @@
 /*
 * jQuery.treevial : treeview from JSON data plugin
 *
-*  $Author
-*  $Copyright
-*  $Revision
-*  $Date
-*  $LastChangedBy
-*  $LastChangedDate
+*  $Author$
+*  $Copyright$
+*  $Revision$
+*  $Date$
+*  $LastChangedBy$
+*  $LastChangedDate$
 */
 
 (function($) {
