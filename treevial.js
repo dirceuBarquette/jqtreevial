@@ -1,4 +1,18 @@
-// ricardo
+/* SVN FILE: $Id$ */
+/**
+* jQuery.treevial : treeview from JSON data plugin
+*
+* @package className
+* @subpackage subclassName
+* @author $Author$
+* @copyright $Copyright$
+* @version $Revision$
+* @lastrevision $Date$
+* @modifiedby $LastChangedBy$
+* @lastmodified $LastChangedDate$
+* @license $License$
+* @filesource $URL$
+*/
 
 (function($) {
 
